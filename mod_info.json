@@ -1,0 +1,12 @@
+{
+	"id":"lynx",
+	"name":"LYNX Corporation",
+	"author":"jovianArchiver & Cloudbow",
+	"version":"0.1.0",
+	"description":"",
+    "gameVersion": "0.95.1a",
+    "dependencies": [
+    ],
+	"jars":["jars/lynx.jar"],
+	"modPlugin":"data.scripts.lynx",
+}

@@ -1,0 +1,11 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/jovianArchiver/lynx/main/lynx.version",
+    "modName":"LYNX Corporation",
+    "modThreadId":0,
+    "modVersion":
+    {
+        "major":0,
+        "minor":1,
+        "patch":0
+    }
+}

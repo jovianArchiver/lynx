@@ -1,0 +1,69 @@
+{
+  "hullName": "Mackerel",
+  "hullId": "lynx_mackerel",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/mackerel_base.png",
+  "style": "LOW_TECH",
+  "height": 107,
+  "width": 50,
+  "center": [25, 51.5],
+  "collisionRadius": 0,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 0,
+  "viewOffset": 0,
+  "weaponSlots": [],
+  "engineSlots": [
+    {
+      "location": [-50, -0],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-36.5, 20],
+      "length": 10,
+      "width": 4,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-36.5, -19.5],
+      "length": 10,
+      "width": 4,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-36.5, 22],
+      "length": 10,
+      "width": 4,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-36.5, -22.5],
+      "length": 10,
+      "width": 4,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    54, -16.5,
+    34, -22.5,
+    -34, -23.5,
+    -34, -8.5,
+    -47, -8.5,
+    -47, 8.5,
+    -34, 8.5,
+    -34, 23.5,
+    34, 22.5,
+    54, 16.5
+  ]
+}
